@@ -7,7 +7,7 @@ This repository demonstrates Infrastructure as Code for deploying a multi-availa
 
 ## Architecture
 
-Here is a visual diagram of the infrastructure created through mermaid.js. 
+This is a visual diagram of the infrastructure created through mermaid.js. 
 
 ```mermaid
 flowchart TB
